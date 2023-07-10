@@ -1,6 +1,15 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#image
+![ladingpage](https://github.com/Mibek-Shrestha/FitLyfe/assets/79530597/6cf20c85-b003-43c4-93be-e4122947167e)
+![searchBar](https://github.com/Mibek-Shrestha/FitLyfe/assets/79530597/7800b916-0343-4d35-b239-a9c8b457027a)
+
+![showingresult](https://github.com/Mibek-Shrestha/FitLyfe/assets/79530597/41db27c8-a9a7-46fb-8e02-c4da01539932)
+![usedEmaljs](https://github.com/Mibek-Shrestha/FitLyfe/assets/79530597/7b0921dd-998d-4d53-9eb3-d8b2162f810e)
+![exerciseinfo](https://github.com/Mibek-Shrestha/FitLyfe/assets/79530597/26cb0827-0edb-463f-ad6c-42da48e03e47)
+![similarApi](https://github.com/Mibek-Shrestha/FitLyfe/assets/79530597/dfd11a55-d310-4284-9bcf-636366451f0a)
+
 
 ## Available Scripts
 
